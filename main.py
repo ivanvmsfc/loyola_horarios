@@ -7,7 +7,7 @@ from ics import Calendar, Event
 import pytz
 
 # URL to request
-url = 'https://portales.uloyola.es/LoyolaHorario/horario.xhtml?curso=2024%2F25&tipo=M&titu=551&campus=2&ncurso=2&grupo=A'
+url = 'https://portales.uloyola.es/LoyolaHorario/horario.xhtml?curso=2025%2F26&tipo=G&titu=403&campus=2&ncurso=1&grupo=A'
 
 
 def get_json():
