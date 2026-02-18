@@ -1,6 +1,8 @@
-requests
-beautifulsoup4
-python-dateutil
-ics
-pytz
-rich
+requests==2.31.0
+beautifulsoup4==4.12.3
+python-dateutil==2.8.2
+pytz==2023.3
+
+ics==0.7.2
+tatsu==5.8.3
+rich==13.7.1

@@ -1,115 +1,203 @@
+from __future__ import annotations
+
+import json
+import logging
+import re
+from dataclasses import dataclass
+from datetime import datetime
+from typing import Any, List, Dict, Optional
+
 import requests
 from bs4 import BeautifulSoup
-import re
-import json
-from datetime import datetime
 from ics import Calendar, Event
-import pytz
+from requests import Response
 
-# URL to request
-url = 'https://portales.uloyola.es/LoyolaHorario/horario.xhtml?curso=2025%2F26&tipo=G&titu=403&campus=2&ncurso=1&grupo=A'
+# ---------------------------------------------------------------------------
+# CONFIGURATION
+# ---------------------------------------------------------------------------
+
+URL: str = (
+    "https://portales.uloyola.es/LoyolaHorario/horario.xhtml"
+    "?curso=2025%2F26&tipo=G&titu=403&campus=2&ncurso=1&grupo=A"
+)
+
+OUTPUT_ICS_FILE: str = "calendario.ics"
+REQUEST_TIMEOUT: int = 15
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(message)s",
+)
+
+logger = logging.getLogger(__name__)
 
 
-def get_json():
-    # Send the GET request
-    response = requests.get(url)
+# ---------------------------------------------------------------------------
+# DATA MODELS
+# ---------------------------------------------------------------------------
 
-    # Check if the request was successful
-    if response.status_code == 200:
-        # Parse the response content
-        soup = BeautifulSoup(response.content, 'html.parser')
-        
-        # Find all <script> tags with type="text/javascript"
-        script_tags = soup.find_all('script', type='text/javascript')
-        
-        # Initialize a variable to store the desired function content
-        render_horario_js_content = None
+@dataclass
+class ScheduleEvent:
+    title: str
+    start: Optional[str]
+    end: Optional[str]
+    descripcion: str
+    profesor: str
+    obs: Any
+    examen: Any
 
-        # Iterate through script tags to find the one containing `renderHorarioJs`
-        for script in script_tags:
-            if 'function renderHorarioJs' in (script.string or ''):
-                render_horario_js_content = script.string
-                break  # Stop after finding the first occurrence
 
-        # If the function was found, search for `eventos_calendario`
-        if render_horario_js_content:
-            # Find the variable definition
-            eventos_calendario_match = re.search(r'var eventos_calendario = (\[.*?\]);', render_horario_js_content, re.DOTALL)
-            
-            if eventos_calendario_match:
-                # Extract the JSON-like content
-                eventos_calendario_content = eventos_calendario_match.group(1)
+# ---------------------------------------------------------------------------
+# NETWORK LAYER
+# ---------------------------------------------------------------------------
 
-                # Parse the content to validate it's proper JSON
+def fetch_schedule_page(url: str) -> Response:
+    """Fetch schedule HTML page."""
+    try:
+        response = requests.get(url, timeout=REQUEST_TIMEOUT)
+        response.raise_for_status()
+        return response
+    except requests.RequestException as exc:
+        logger.error("Error fetching schedule page: %s", exc)
+        raise
+
+
+# ---------------------------------------------------------------------------
+# PARSING LAYER
+# ---------------------------------------------------------------------------
+
+def extract_eventos_json(html: str) -> List[Dict[str, Any]]:
+    """Extract eventos_calendario JSON array from HTML."""
+    soup = BeautifulSoup(html, "html.parser")
+
+    script_tags = soup.find_all("script", type="text/javascript")
+
+    for script in script_tags:
+        content = script.string or ""
+        if "function renderHorarioJs" in content:
+            match = re.search(
+                r"var eventos_calendario\s*=\s*(\[[\s\S]*?\]);",
+                content,
+            )
+            if match:
+                raw_json = match.group(1)
                 try:
-                    eventos_calendario_json = json.loads(eventos_calendario_content)
+                    return json.loads(raw_json)
+                except json.JSONDecodeError as exc:
+                    logger.error("Invalid JSON format in eventos_calendario: %s", exc)
+                    raise
 
-                    # Save it to a JSON file
-                    with open('eventos_calendario.json', 'w', encoding='utf-8') as file:
-                        json.dump(eventos_calendario_json, file, ensure_ascii=False, indent=4)
-                    print("Variable 'eventos_calendario' saved to 'eventos_calendario.json'.")
-                except json.JSONDecodeError:
-                    print("Error: The content of eventos_calendario is not valid JSON.")
-            else:
-                print("Variable 'eventos_calendario' not found in the script content.")
-        else:
-            print("No <script> tag containing 'renderHorarioJs' found in the response.")
-    else:
-        print(f"Failed to retrieve the content. Status code: {response.status_code}")
+    raise ValueError("Could not find eventos_calendario in page.")
 
 
-# Load the JSON data
-def load_json(filename):
-    with open(filename, 'r') as f:
-        return json.load(f)
+# ---------------------------------------------------------------------------
+# TRANSFORMATION LAYER
+# ---------------------------------------------------------------------------
 
-# Create an iCalendar file
-def create_ics():
-    # Load the JSON data
-    with open('eventos_calendario.json', 'r', encoding='utf-8') as file:
-        events_data = json.load(file)
+def map_to_schedule_events(data: List[Dict[str, Any]]) -> List[ScheduleEvent]:
+    """Map raw JSON data to ScheduleEvent objects."""
+    events: List[ScheduleEvent] = []
 
-    # Create a calendar
+    for item in data:
+        extended = item.get("extendedProps", {})
+
+        events.append(
+            ScheduleEvent(
+                title=item.get("title", "No Title"),
+                start=item.get("start"),
+                end=item.get("end"),
+                descripcion=extended.get("descripcion", "No description"),
+                profesor=extended.get("profesor", "No professor"),
+                obs=extended.get("obs", False),
+                examen=extended.get("examen", False),
+            )
+        )
+
+    return events
+
+
+# ---------------------------------------------------------------------------
+# ICS GENERATION
+# ---------------------------------------------------------------------------
+
+def parse_datetime(value: Optional[str]) -> Optional[datetime]:
+    """Safely parse ISO datetime string."""
+    if not value:
+        return None
+
+    try:
+        return datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError:
+        logger.warning("Invalid datetime format: %s", value)
+        return None
+
+
+def extract_location(title: str) -> str:
+    """Extract location from title."""
+    parts = title.split("Aula:")
+    return parts[-1].strip() if len(parts) > 1 else "No Location"
+
+
+def build_ics_calendar(events: List[ScheduleEvent]) -> Calendar:
+    """Create Calendar object from schedule events."""
     calendar = Calendar()
 
-    # Loop through each event in JSON data and add it to the calendar
-    for item in events_data:
+    for item in events:
         event = Event()
-        event.name = item.get('title', 'No Title')
-        
-        # Start and end time if available
-        start_time = item.get('start')
-        end_time = item.get('end')
-        
-        if start_time:
-            event.begin = datetime.fromisoformat(start_time.replace("Z", "+00:00"))
-        if end_time:
-            event.end = datetime.fromisoformat(end_time.replace("Z", "+00:00"))
+        event.name = item.title
 
-        # Additional fields for event description
-        extended_props = item.get('extendedProps', {})
-        descripcion = extended_props.get('descripcion', 'No description')
-        profesor = extended_props.get('profesor', 'No professor')
-        obs = extended_props.get('obs', False)
-        examen = extended_props.get('examen', False)
-        
-        # Add details to the event's description field
-        details = f"Description: {descripcion}\nProfessor: {profesor}\nObservations: {obs}\nExam: {examen}"
-        event.description = details
-        
-        # Set location if available in the title
-        location_info = item.get('title', '').split("Aula: ")
-        event.location = location_info[-1].strip() if len(location_info) > 1 else 'No Location'
-        
-        # Add event to calendar
+        start_dt = parse_datetime(item.start)
+        end_dt = parse_datetime(item.end)
+
+        if start_dt:
+            event.begin = start_dt
+        if end_dt:
+            event.end = end_dt
+
+        event.location = extract_location(item.title)
+
+        event.description = (
+            f"Description: {item.descripcion}\n"
+            f"Professor: {item.profesor}\n"
+            f"Observations: {item.obs}\n"
+            f"Exam: {item.examen}"
+        )
+
         calendar.events.add(event)
 
-    # Save the calendar to an .ics file
-    with open('calendario.ics', 'w', encoding='utf-8') as f:
+    return calendar
+
+
+def save_calendar(calendar: Calendar, filepath: str) -> None:
+    """Save calendar to file."""
+    with open(filepath, "w", encoding="utf-8") as f:
         f.writelines(calendar)
 
-    print("ICS file created successfully with detailed information!")
-    
-get_json()
-events = load_json("eventos_calendario.json")
-create_ics()
+    logger.info("ICS file successfully written to %s", filepath)
+
+
+# ---------------------------------------------------------------------------
+# APPLICATION ENTRY POINT
+# ---------------------------------------------------------------------------
+
+def main() -> None:
+    logger.info("Fetching schedule page...")
+    response = fetch_schedule_page(URL)
+
+    logger.info("Extracting JSON data...")
+    raw_events = extract_eventos_json(response.text)
+
+    logger.info("Mapping events...")
+    schedule_events = map_to_schedule_events(raw_events)
+
+    logger.info("Building calendar...")
+    calendar = build_ics_calendar(schedule_events)
+
+    logger.info("Saving ICS file...")
+    save_calendar(calendar, OUTPUT_ICS_FILE)
+
+    logger.info("Process completed successfully.")
+
+
+if __name__ == "__main__":
+    main()
