@@ -6,6 +6,7 @@ import re
 from dataclasses import dataclass
 from datetime import datetime
 from typing import Any, List, Dict, Optional
+from urllib.parse import urlencode
 
 import requests
 from bs4 import BeautifulSoup
@@ -16,12 +17,48 @@ from requests import Response
 # CONFIGURATION
 # ---------------------------------------------------------------------------
 
+BASE_URL = "https://portales.uloyola.es/LoyolaHorario/horario.xhtml"
+
+TITULACION = 403
+CAMPUS = 2
+TIPO = "G"
+GRUPO = "A"
+
+
+def get_academic_year() -> str:
+    """Return academic year formatted as 2025%2F26 based on current date."""
+    now = datetime.now()
+
+    if now.month >= 9:  # September to December
+        start_year = now.year
+        end_year = now.year + 1
+    else:  # January to August
+        start_year = now.year - 1
+        end_year = now.year
+
+    short_end_year = str(end_year)[-2:]
+    return f"{start_year}%2F{short_end_year}"
+
+
+def build_url(ncurso: int) -> str:
+    """Build Loyola schedule URL dynamically."""
+    params = {
+        "curso": get_academic_year(),
+        "tipo": TIPO,
+        "titu": TITULACION,
+        "campus": CAMPUS,
+        "ncurso": ncurso,
+        "grupo": GRUPO,
+    }
+
+    return f"{BASE_URL}?{urlencode(params)}"
+
+
 URL: str = (
     "https://portales.uloyola.es/LoyolaHorario/horario.xhtml"
     "?curso=2025%2F26&tipo=G&titu=403&campus=2&ncurso=1&grupo=A"
 )
 
-OUTPUT_ICS_FILE: str = "calendario.ics"
 REQUEST_TIMEOUT: int = 15
 
 logging.basicConfig(
@@ -181,22 +218,22 @@ def save_calendar(calendar: Calendar, filepath: str) -> None:
 # ---------------------------------------------------------------------------
 
 def main() -> None:
-    logger.info("Fetching schedule page...")
-    response = fetch_schedule_page(URL)
+    for ncurso in range(1, 5):
+        logger.info("Processing course %s", ncurso)
 
-    logger.info("Extracting JSON data...")
-    raw_events = extract_eventos_json(response.text)
+        url = build_url(ncurso)
+        response = fetch_schedule_page(url)
 
-    logger.info("Mapping events...")
-    schedule_events = map_to_schedule_events(raw_events)
+        raw_events = extract_eventos_json(response.text)
+        schedule_events = map_to_schedule_events(raw_events)
 
-    logger.info("Building calendar...")
-    calendar = build_ics_calendar(schedule_events)
+        calendar = build_ics_calendar(schedule_events)
 
-    logger.info("Saving ICS file...")
-    save_calendar(calendar, OUTPUT_ICS_FILE)
+        filename = f"calendario{ncurso}.ics" if ncurso > 1 else "calendario.ics"
+        save_calendar(calendar, filename)
 
-    logger.info("Process completed successfully.")
+    logger.info("All calendars generated successfully.")
+
 
 
 if __name__ == "__main__":
