@@ -37,7 +37,7 @@ def get_academic_year() -> str:
         end_year = now.year
 
     short_end_year = str(end_year)[-2:]
-    return f"{start_year}%2F{short_end_year}"
+    return rf"{start_year}/{short_end_year}"
 
 
 def build_url(ncurso: int) -> str:
@@ -222,6 +222,7 @@ def main() -> None:
         logger.info("Processing course %s", ncurso)
 
         url = build_url(ncurso)
+        logger.info("Fetching schedule from URL: %s", url)
         response = fetch_schedule_page(url)
 
         raw_events = extract_eventos_json(response.text)
