@@ -2,19 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
-DTEND:20270203T113000Z
-LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
-DTSTART:20270203T073000Z
-SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
-UID:68e5fa9a-5362-45e8-a219-76fb923cf9a3@68e5.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
 LOCATION:No Location
-DTSTART:20261012T000000Z
-SUMMARY:Festividad de Nuestra Señora del Pilar - Fiesta Nacional
-UID:56b86563-2355-48b3-b610-21ef01bd7dd1@56b8.org
+DTSTART:20270315T000000Z
+SUMMARY:Canonización de San Ignacio - Fiesta Universidad Loyola Andalucía
+UID:ebe6d564-282c-4ba0-9554-bcb300a69e36@ebe6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
@@ -22,445 +14,7 @@ DTEND:20270420T103000Z
 LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
 DTSTART:20270420T083000Z
 SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:6165198c-0c86-420b-acb9-368454c8a52f@6165.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270212T113000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270212T093000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:f0ced491-2fc6-42e7-8dc9-c9734bbfa9a8@f0ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270419T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270419T083000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:997a6016-7ac9-4453-befd-8d50c48c2376@997a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20261013T083000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20261013T063000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:49f99f87-2023-45db-bee7-acc268a96fc3@49f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20261026T113000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20261026T093000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:b0d65951-e5bc-40ff-8364-d2111c017730@b0d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270222T113000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270222T093000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:8b74feb5-daa4-41ad-b300-62ccc5c2c6b5@8b74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270311T113000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270311T093000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:081c7f55-7017-41d4-bffd-f2d9ad164fd6@081c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20261118T133000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20261118T113000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:bc788005-184a-471f-b9ca-598b57fcd654@bc78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20260908T083000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20260908T063000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:da652ae8-1566-4c90-84b7-afaca33e67ae@da65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270405T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270405T083000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:c2079512-51ff-4790-b5a2-258346777d5f@c207.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261120T113000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261120T093000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:6abbd9c3-74f5-418a-8dd6-dab551024498@6abb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270211T133000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270211T113000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:b61dbc3e-03f0-413e-9ae6-d8eedb10a371@b61d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261013T103000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261013T083000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:22885cac-bdb9-4bba-9122-3068a656edc6@2288.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270329T123000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270329T103000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:ddf58606-4ab7-48b7-a2ef-9bb0884dfcbe@ddf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20260929T103000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20260929T083000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:ffa503e2-226c-4468-947c-fc4c87babd08@ffa5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20261214T183000Z
-LOCATION:No Location
-DTSTART:20261214T143000Z
-SUMMARY:Examen de Automatización Industrial e Instrumentación en aulas  - (Tipo Escrito)
-UID:8d88ffe9-7315-488a-a45c-2c8013b97410@8d88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20261110T093000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20261110T073000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:020e75d3-6bd7-4760-ac2f-d94530a0a543@020e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261008T103000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261008T083000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:ae138239-a53f-4863-ba40-5fd80588a629@ae13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20260921T083000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20260921T063000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:ddad5ccb-b832-4e60-bfc1-51ca836237c4@ddad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20260930T103000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20260930T083000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:b90607aa-9664-4446-8709-63e0971c9b19@b906.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20260922T083000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20260922T063000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:87a0581d-5c13-42c0-ba3f-6fdcb5e8ab52@87a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261022T103000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261022T083000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:f1895d58-8900-4b8d-975b-9cafab0dc781@f189.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270308T133000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270308T113000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:3a74121f-d230-46c2-95a5-b3959f384db3@3a74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270318T113000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270318T093000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:7dddaa73-9049-4624-9618-3e6aea382750@7ddd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20260914T083000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20260914T063000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:3c0b325d-47e9-417a-adab-fcd1c5d12bdf@3c0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270215T113000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270215T093000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:53f232ec-92c6-48a3-b511-ff51188da6a3@53f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270422T123000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270422T103000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:3fad565e-7017-4f42-930f-ffafdf6f6626@3fad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270511T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270511T083000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:866aa075-d92a-4916-bd83-c457fc6a0081@866a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20270623T123000Z
-LOCATION:No Location
-DTSTART:20270623T073000Z
-SUMMARY:Examen de Electrónica de Potencia en aulas  - (Tipo Escrito)
-UID:849546f2-2611-4ccc-a26b-6a350d220244@8495.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270513T123000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270513T103000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:a6de2895-5a68-4a3b-a1e5-e0fb63150054@a6de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20261208T000000Z
-SUMMARY:Festividad de la Inmaculada Concepción - Fiesta Autonómica
-UID:a3a33420-99b1-4058-9439-711a3817f1ae@a3a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20261223T000000Z
-SUMMARY:Periodo vacacional de Navidad
-UID:cb09337b-7b28-4937-afff-6cc884876446@cb09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270406T123000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270406T103000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:d6ca0dd8-1f9b-4d09-b547-422f808c48fa@d6ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270218T133000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270218T113000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:2ffe1997-1b7d-4fb9-bae0-f37f3e7e09d5@2ffe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261014T103000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261014T083000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:37a6ed08-b79f-4660-805d-5c6fbcc884be@37a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261002T103000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261002T083000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:d3bcb043-78ac-4806-b038-f34c1ac7c86f@d3bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270218T113000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270218T093000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:1f4b4fa4-2a8a-4f19-9bdf-9ac2211cd2cc@1f4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270412T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270412T083000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:34af1259-8066-4085-b991-9b02bf9a4eee@34af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20261014T123000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20261014T103000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:90d33486-0499-4188-9be5-5b9677b7cda6@90d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270510T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270510T083000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:0f7f673d-777b-449b-95aa-6740ee853e59@0f7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20261005T103000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20261005T083000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:476b08b2-8def-4d65-a9c9-c387c5171842@476b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261125T113000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261125T093000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:c1104b20-87f6-4460-8d74-98f0affa5c31@c110.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261204T113000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261204T093000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:6364b948-50e2-48ba-a05c-48bca8934001@6364.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270217T133000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270217T113000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:e33fadef-6ca6-4040-8086-4e878d5f6756@e33f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20260928T083000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20260928T063000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:92325ddc-11bd-4715-a594-9661cd61f77f@9232.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261007T103000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261007T083000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:3f4e2ace-a4b1-488e-919e-46c385798db2@3f4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270222T133000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270222T113000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:af355e52-522c-4d02-aea7-02380d298e38@af35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270316T113000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270316T093000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:11f355dc-eede-4142-9818-7f5307e06ba8@11f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270413T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270413T083000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:9a64facb-571e-41ca-8f14-41b180fc1a60@9a64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20270528T120000Z
-LOCATION:No Location
-DTSTART:20270528T100000Z
-SUMMARY:Examen de Sistemas Inteligentes en aulas  - (Tipo Escrito-Práctico\, Sala de Ordenadores)
-UID:eb949961-5557-43c6-8559-7e4c9819cfc1@eb94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
-DTEND:20270210T113000Z
-LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
-DTSTART:20270210T073000Z
-SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
-UID:46e4f6f2-4555-4810-9cee-1cf1f5b0715c@46e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261106T113000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261106T093000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:0ce723f2-e410-4c1c-bf72-71426466cd44@0ce7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270331T123000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270331T103000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:a1b420b8-b242-4f2b-929c-47c0945cb246@a1b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270421T123000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270421T103000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:280f4394-dfec-427c-ac48-a591f5f36ef5@280f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20261109T093000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20261109T073000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:011861c8-5693-4c56-b0a0-585e6bd8c276@0118.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261111T113000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261111T093000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:35b4eed1-133f-4d2b-ae34-48167b813d0d@35b4.org
+UID:c59e8b0f-7b60-4636-b6b2-855972c5b875@c59e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
@@ -468,539 +22,7 @@ DTEND:20261023T103000Z
 LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
 DTSTART:20261023T083000Z
 SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:cf22429a-158c-44fa-96d9-ec4aec4c8616@cf22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261009T103000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261009T083000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:01353b56-81f5-456f-8211-7539f86b4689@0135.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270503T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270503T083000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:e1da7e3f-66d2-40bf-85ef-5d9b43d83a75@e1da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270310T133000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270310T113000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:9a1550bd-ec29-4714-a698-bb06b1f5442f@9a15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270303T133000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270303T113000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:a41d12d8-6d53-410d-a663-09cb0f1c64ba@a41d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20260903T000000Z
-SUMMARY:Jornadas de Bienvenida- Grados
-UID:75c2b0dc-838a-4148-84ea-b081f3facfab@75c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270204T113000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270204T093000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:fe2c40e1-adbb-46b1-bf22-0c25c4f764fc@fe2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261016T103000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261016T083000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:86f33d40-4519-4593-a59b-8cd3d64dd5dc@86f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20270501T000000Z
-SUMMARY:Celebración Día del Trabajo - Fiesta Nacional
-UID:fa8d7113-7475-4ca5-b0af-803a6b1af531@fa8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20270315T000000Z
-SUMMARY:Canonización de San Ignacio - Fiesta Universidad Loyola Andalucía
-UID:6963b5c8-4ff4-4158-83cc-b99bde48553e@6963.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20261007T123000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20261007T103000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:87feafe2-c381-48b1-bd6d-e663a5c9322f@87fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20260915T103000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20260915T083000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:a2faf5ba-1c95-4f42-b98f-c8aee59ea668@a2fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270419T123000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270419T103000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:10af026a-3af1-4598-8307-0d5b2861c2e4@10af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20261005T083000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20261005T063000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:a12be3ba-4331-4fd1-abf3-7c78e79e9545@a12b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270330T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270330T083000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:7386c51d-a2fc-402d-be4e-003528be329a@7386.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270413T123000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270413T103000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:b264c90b-61e1-4381-81ae-d61b0c093d89@b264.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270330T123000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270330T103000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:17bb7ca8-dfdd-4775-8db0-2a4370379410@17bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
-DTEND:20270512T103000Z
-LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
-DTSTART:20270512T063000Z
-SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
-UID:7a7db686-2eb9-4b4e-a38b-6258271b6bd3@7a7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
-DTEND:20270331T103000Z
-LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
-DTSTART:20270331T063000Z
-SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
-UID:1211391b-12b0-44ce-9cf7-cfd7f1ac661c@1211.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270504T123000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270504T103000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:695ef304-a04f-4661-ba23-4b68e845bc65@695e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20270622T163000Z
-LOCATION:No Location
-DTSTART:20270622T133000Z
-SUMMARY:Examen de Control de Máquinas y Accionamientos Eléctricos en aulas  - (Tipo Escrito)
-UID:54e5c759-7c0c-4c5b-b5b2-d3cf63576783@54e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270203T133000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270203T113000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:f1b7879c-926c-4272-b929-2530f2b7d7c3@f1b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20270125T173000Z
-LOCATION:No Location
-DTSTART:20270125T143000Z
-SUMMARY:Examen de Tecnologías de Fabricación en aulas  - (Tipo Escrito-Práctico\, Sala de Ordenadores)
-UID:d7d0874e-2b57-40b4-9305-7649c4b421e7@d7d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270211T113000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270211T093000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:5e97253a-bf26-4750-87c8-e987986285f4@5e97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20261130T113000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20261130T093000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:6bbea8df-ad02-4e11-af09-265b0514746a@6bbe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
-DTEND:20270317T113000Z
-LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
-DTSTART:20270317T073000Z
-SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
-UID:5b90cc18-a521-4049-85b0-0c5745755c32@5b90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20261116T113000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20261116T093000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:83438a0f-8912-4287-b68b-5c7dd4dc740c@8343.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20260924T103000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20260924T083000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:25533eae-cdd5-449f-be8c-c8409347dd4b@2553.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20261116T093000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20261116T073000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:9498401c-1b91-4f6f-9c0a-58ef5d8f2d0c@9498.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20270614T123000Z
-LOCATION:No Location
-DTSTART:20270614T073000Z
-SUMMARY:Examen de Informática Industrial y Comunicaciones en aulas  - (Tipo Escrito-Práctico\, Sala de Ordenadores)
-UID:4c438926-a065-42de-ab20-413e0cf0b71a@4c43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20261019T103000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20261019T083000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:cc52b2c2-e23f-4b87-8467-6364c32e5a50@cc52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270408T123000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270408T103000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:2c65f5f5-c9d5-435f-bde1-1db8125cc645@2c65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270429T123000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270429T103000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:442091ca-fb6a-46ff-9562-e7917f21452a@4420.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20260914T103000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20260914T083000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:6260b5cc-82f0-477f-a0a4-ea30e385d682@6260.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270317T133000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270317T113000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:2af6aa38-a1c3-4c69-a4f4-0b278889672c@2af6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270308T113000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270308T093000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:7580bc12-8d3c-44cc-b93f-de214ebd90ac@7580.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270201T113000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270201T093000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:52c2ed6c-2447-4e21-95ea-b0e657eb265e@52c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270513T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270513T083000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:01046686-1396-43f2-a157-cc5e479af9d7@0104.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20261125T133000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20261125T113000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:6abcdc4c-7116-4a14-9f44-8cc72690e5d5@6abc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261021T103000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261021T083000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:1df2c24a-5314-4a69-a83f-cdede367cb9f@1df2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270405T123000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270405T103000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:3ebc76f8-12b6-4193-8dc9-b4b187c9d351@3ebc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
-DTEND:20270310T113000Z
-LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
-DTSTART:20270310T073000Z
-SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
-UID:d3598a4e-b149-4330-98d2-1348f843e7fa@d359.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270226T113000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270226T093000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:b8f5ff5f-a6c8-4a38-b555-2b558d6b6346@b8f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
-DTEND:20270217T113000Z
-LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
-DTSTART:20270217T073000Z
-SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
-UID:9f8c4c9f-a1d4-4bdf-b8b5-186c15ba0217@9f8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270420T123000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270420T103000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:c3774d67-7ffe-4123-be60-8745beffb059@c377.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261119T113000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261119T093000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:cce9c58e-6f28-46e6-862f-7a20c2d3ab4c@cce9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270302T113000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270302T093000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:fca2776c-65d0-4f02-afd7-07e147e94a9d@fca2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20261124T093000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20261124T073000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:affc0d30-3278-4e2a-bda6-50640aad519d@affc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270401T123000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270401T103000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:44f31238-1495-4be1-bc3f-49531f270631@44f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270223T133000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270223T113000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:78aee09f-4514-4ffd-89dd-6d742ad14b5f@78ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270507T103000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270507T083000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:444d958c-7bd6-472b-9572-396bc77c81fd@444d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
-DTEND:20270505T103000Z
-LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
-DTSTART:20270505T063000Z
-SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
-UID:30aa4c00-ac7c-4531-9c0e-618bdbbfbb72@30aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
-DTEND:20270421T103000Z
-LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
-DTSTART:20270421T063000Z
-SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
-UID:e80e4969-929c-4f86-9a12-09c9d098b341@e80e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270210T133000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270210T113000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:f5f2388a-7872-4efa-8395-b4a2193d2924@f5f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270505T123000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270505T103000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:f344669d-3dbb-4ba3-9fef-e2122a66d6cd@f344.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261006T103000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261006T083000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:2452bc8e-2a6f-4c86-8697-795ff44e63fa@2452.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270223T113000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270223T093000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:ecf2324b-5cd0-43a4-9b37-9f6b2001a980@ecf2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270427T123000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270427T103000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:b7cba71d-37f9-4ad0-a2b7-4d653df56dac@b7cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261202T113000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261202T093000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:1201440a-eb15-4c9f-8850-891f3294eeea@1201.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20261021T123000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20261021T103000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:6baf8a52-32d8-4ef6-a0f8-52e21cb5ba37@6baf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20261109T113000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20261109T093000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:d3aec157-cdca-43e5-81ae-386b389b98c9@d3ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270329T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270329T083000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:a5b86633-173d-47da-a16b-bced6cfdcefa@a5b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270304T113000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270304T093000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:98835c4c-1045-4ee3-97e5-86e75b5d0203@9883.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20270112T123000Z
-LOCATION:No Location
-DTSTART:20270112T083000Z
-SUMMARY:Examen de Robotics en aulas Aula Informática C1.10  - (Tipo Escrito-Práctico\, Sala de Ordenadores)
-UID:26662cc8-e425-4085-9f3d-be11916ae746@2666.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20270130T123000Z
-LOCATION:No Location
-DTSTART:20270130T083000Z
-SUMMARY:Examen de Robotics en aulas  - (Tipo Escrito-Práctico\, Sala de Ordenadores)
-UID:ebdb1f60-0e92-4a0a-a150-4b558c7a393b@ebdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20270322T000000Z
-SUMMARY:Vacaciones de Semana Santa
-UID:0ce7139d-aca6-4892-9a93-bdeb9994a4fb@0ce7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270209T133000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270209T113000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:7090c8a3-7a15-4590-abbc-61f215450732@7090.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270402T103000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270402T083000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:0f1ae102-1ace-47a7-bf2a-c4fa5b2ff65a@0f1a.org
+UID:5e292c34-dae9-4a85-af6f-5f9202531810@5e29.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
@@ -1008,840 +30,31 @@ DTEND:20270303T113000Z
 LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
 DTSTART:20270303T073000Z
 SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
-UID:fe695e17-6072-4a85-ac8f-06a5b50a7524@fe69.org
+UID:8b0dd5f2-59ac-4b32-9e4f-9af8dca1e48e@8b0d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270208T113000Z
+DTEND:20270302T113000Z
 LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270208T093000Z
+DTSTART:20270302T093000Z
 SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:f17cdcd9-64d7-40a0-a864-c984cc9811eb@f17c.org
+UID:bff37181-13e9-4be8-b18f-7363bb6ad787@bff3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270511T123000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270511T103000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:9364f803-6c42-4e6d-b8a2-8312c29f1fc5@9364.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270406T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270406T083000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:bdfe773f-07aa-4965-888f-f005f31e91d7@bdfe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270408T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270408T083000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:4f6bd661-1b7a-493b-a540-192ca299b78d@4f6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270319T113000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270319T093000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:d438a754-3b0f-48f2-883e-648b03e08629@d438.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261103T113000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261103T093000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:6d993e68-dd8d-4339-bfd6-61bcc6343c97@6d99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261124T113000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261124T093000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:f273aaf9-d632-47e4-a2fd-3e7d1760c5b0@f273.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270312T113000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270312T093000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:640d9da9-ae19-4810-93d0-be9e51df4900@640d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261117T113000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261117T093000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:42616fe7-893b-4408-bbde-78bc0cb6f615@4261.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261027T113000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261027T093000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:28d28277-5b26-48f4-b762-331ad41aa4ea@28d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261015T103000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261015T083000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:b2429b22-a867-4c42-8b2b-8c5979f8fcd6@b242.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270514T103000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270514T083000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:601d10f8-54f6-4063-920c-27b94ed99634@601d.org
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20261118T133000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20261118T113000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:188ac1fe-a259-4279-8ce0-91be886c2ac8@188a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
-DTEND:20270407T103000Z
+DTEND:20270421T103000Z
 LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
-DTSTART:20270407T063000Z
+DTSTART:20270421T063000Z
 SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
-UID:82ad09b2-f587-4c94-9209-7343d8d9e0e6@82ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261104T113000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261104T093000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:a86c6061-2ecc-41bc-a269-5619b7948af9@a86c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261030T113000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261030T093000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:c7e78826-eeca-4e01-b967-e4c71a7ea203@c7e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20270122T173000Z
-LOCATION:No Location
-DTSTART:20270122T143000Z
-SUMMARY:Examen de Electrónica Digital y Microcontroladores en aulas  - (Tipo Escrito)
-UID:c4e87ce9-690d-4cc2-8e43-4aae4ba10e4c@c4e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261105T113000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261105T093000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:09a34085-a758-4032-94a9-57a109bc68e6@09a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20261123T093000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20261123T073000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:df048940-0cb8-48fd-81b0-1d8e1109161d@df04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270316T133000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270316T113000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:41e21936-9292-4216-86ab-2a445b2275ab@41e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270512T123000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270512T103000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:69048f03-1c31-42c1-a9f5-c42c535fb35d@6904.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270506T123000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270506T103000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:c65e7266-9962-4867-bfbf-b0b5d9a00173@c65e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270305T113000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270305T093000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:9e95d403-b3f1-46be-a479-4279f1307ba8@9e95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270430T103000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270430T083000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:abb0fa25-783f-4629-adbb-0055fabaaa4d@abb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270205T113000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270205T093000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:39124111-aa3c-4635-9e46-ece23777b536@3912.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20270602T123000Z
-LOCATION:No Location
-DTSTART:20270602T073000Z
-SUMMARY:Examen de Electrónica de Potencia en aulas  - (Tipo Escrito)
-UID:8815e2a8-f8c1-4472-94cb-5a74cc317db4@8815.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270503T123000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270503T103000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:a3440b3c-cd91-4516-8de5-fab481f7968b@a344.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270311T133000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270311T113000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:b83b15b4-1eb1-4a1f-b278-f65ab2b3919d@b83b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270225T113000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270225T093000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:44893354-4cbf-4c79-a731-e37a54c0db66@4489.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20270527T000000Z
-SUMMARY:Corpus Christi - Fiesta Local
-UID:3f1d2877-4db3-4011-a00d-fe221c8194a5@3f1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270209T113000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270209T093000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:5537a5f2-a9b5-4b09-a1ec-4cdab7606743@5537.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261029T113000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261029T093000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:aa1f96e1-afad-4d7a-84be-b2dd00c3c8fb@aa1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: Práctica \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: True\nExam: False
-DTEND:20261007T083000Z
-LOCATION:Aula Informática C1.08 (Edificio Central - Campus Sevilla)
-DTSTART:20261007T063000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula Informática C1.08 (Edificio Central - Campus Sevilla) 
-UID:e654c783-ebc7-4310-915a-7d92069ab058@e654.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270204T133000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270204T113000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:0627a025-056e-4da4-b2d8-1b0fabdddff7@0627.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261203T113000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261203T093000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:e9eb197e-b6da-41d8-b4df-be3636a64697@e9eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20260928T103000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20260928T083000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:a6503fcb-2046-432d-a25b-0ab16985e74e@a650.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270225T133000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270225T113000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:fcc59eb0-91bc-490b-a3f0-e532d1464330@fcc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270506T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270506T083000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:95a67cdd-d1ea-4b0f-aaa7-29eaa532f552@95a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270504T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270504T083000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:8cc7f358-f517-4ae5-b2d4-235454e8d1fb@8cc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20270625T120000Z
-LOCATION:No Location
-DTSTART:20270625T100000Z
-SUMMARY:Examen de Sistemas Inteligentes en aulas  - (Tipo Escrito-Práctico\, Sala de Ordenadores)
-UID:8d2158b0-07c9-445d-bb37-43af0c504769@8d21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20261111T133000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20261111T113000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:752fc702-e132-4f3a-a9c1-ef50ba95ef6f@752f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20261217T173000Z
-LOCATION:No Location
-DTSTART:20261217T143000Z
-SUMMARY:Examen de Electrónica Digital y Microcontroladores en aulas  - (Tipo Escrito)
-UID:05e3137c-08e7-4698-8ff3-34daa9d74ec8@05e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261110T113000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261110T093000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:ecdfa966-201a-461f-a609-d77d09d206a4@ecdf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270423T103000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270423T083000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:e83a2e1b-e593-4cad-9ef1-b68173e956c6@e83a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20261206T000000Z
-SUMMARY:Día de la Constitución - Fiesta Nacional
-UID:c2ece0ef-4148-4c0d-9cdd-6a82669f2a6d@c2ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20260922T103000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20260922T083000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:42859bc5-037d-416b-b84a-17366eb19293@4285.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20260918T103000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20260918T083000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:1f9c501d-60e9-4ca1-a1dc-55ca510d38c4@1f9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270401T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270401T083000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:3dc82dca-99ad-4ab6-b9e8-6fb3cd52bc88@3dc8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20260910T103000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20260910T083000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:aa49183b-4592-452f-a13c-83569a1b69fa@aa49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20261123T113000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20261123T093000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:5a210e19-3a9a-450f-9d7d-ac2a5b574449@5a21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20270118T183500Z
-LOCATION:No Location
-DTSTART:20270118T143500Z
-SUMMARY:Examen de Automatización Industrial e Instrumentación en aulas  - (Tipo Escrito)
-UID:6ea0683a-d397-49c9-a2d2-b9ab8d6a7f1a@6ea0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20261201T093000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20261201T073000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:b623dc1a-ea3a-4649-9068-755a9e7842a7@b623.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261127T113000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261127T093000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:2bbc6085-785f-4081-906c-5ce04f5ae5a0@2bbc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270304T133000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270304T113000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:4c1f6cd7-c8c3-4ca0-8b2f-15132efa5ebf@4c1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20270414T000000Z
-SUMMARY:Feria de Abril - Fiesta Local
-UID:2e9704a7-b4f2-4d20-a3c1-c8e723753638@2e97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20261102T000000Z
-SUMMARY:Festividad de Todos los Santos - Fiesta Nacional
-UID:7cb854f4-24d0-4103-a522-3033cb31f2dd@7cb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
-DTEND:20270224T113000Z
-LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
-DTSTART:20270224T073000Z
-SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
-UID:e678f623-e0ec-4d51-ba4d-81255f7144a2@e678.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20270618T113000Z
-LOCATION:No Location
-DTSTART:20270618T073000Z
-SUMMARY:Examen de Ingeniería de Control en aulas  - (Tipo Escrito)
-UID:760d4c1b-17ee-4734-a537-91b10e19b7ff@760d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20260915T083000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20260915T063000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:6319f002-ce5f-4797-99f0-e61eb293db95@6319.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261028T113000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261028T093000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:fcd7a869-97fd-468a-9ac1-d6f72baf8bc6@fcd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20270525T163000Z
-LOCATION:No Location
-DTSTART:20270525T133000Z
-SUMMARY:Examen de Control de Máquinas y Accionamientos Eléctricos en aulas  - (Tipo Escrito)
-UID:c9293e76-16b4-49db-a255-46fb7916f498@c929.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261001T103000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261001T083000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:ff01d49f-fd96-45f1-9409-1ecea8743083@ff01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270216T133000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270216T113000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:6c14dad3-dc11-4c26-bcaf-5738057c9fbd@6c14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270224T133000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270224T113000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:b3dbfa0f-6d2a-483e-8fb5-89b368ad6363@b3db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270426T123000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270426T103000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:12e1671a-17fe-4ca7-9bf5-b813cf07630c@12e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261113T113000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261113T093000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:e5e1d8d8-5c91-4c22-b176-20896394b621@e5e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20260909T123000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20260909T103000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:76c3912a-1394-43c4-b8f7-fbc346bbf288@76c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270302T133000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270302T113000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:2d79f5b9-aba3-45b2-8ea9-511e3ab7de6b@2d79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270309T133000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270309T113000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:5f0e284b-3405-42a9-8f58-9a264dcd8ece@5f0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270202T113000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270202T093000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:17b5c049-5a68-48d5-ab0f-608bcd97541d@17b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270216T113000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270216T093000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:a6213c49-b070-443c-a56d-f2ec343c78bb@a621.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270428T123000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270428T103000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:b45f8811-63a9-42b6-9e67-0a5d2ee6c4a7@b45f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270510T123000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270510T103000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:da792976-2253-4386-8bd3-0691c9650948@da79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261126T113000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261126T093000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:b1e47c11-2827-450a-bacb-07033919de7d@b1e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20260907T103000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20260907T083000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:ec579f2d-bd4e-4f91-9005-cf0d463f6c78@ec57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270202T133000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270202T113000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:4d97c743-60cc-4898-bd75-5f918b277bbb@4d97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270429T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270429T083000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:3643c8e0-0351-41c1-866c-240131321baa@3643.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20260925T103000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20260925T083000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:fc4ce0ad-bac0-4b59-ac57-91897b401d72@fc4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20261026T093000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20261026T073000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:930c76a4-43dd-4cb3-ac75-0ee5aae1918d@930c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261118T113000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261118T093000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:75d9d4fa-8e31-4947-b7b6-48023c21eb32@75d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
-DTEND:20270422T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270422T083000Z
-SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:499c28c0-296d-4bf1-87d1-e37ee99ceaac@499c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20260923T103000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20260923T083000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:fef485d0-dced-4ed9-8ec6-ddff14f9017b@fef4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261201T113000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261201T093000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:a7441ead-c627-4bf9-b271-e871c16b93f1@a744.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20260908T103000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20260908T083000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:467c389e-4830-44e1-b2ae-b622cd5c99aa@467c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20261020T103000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261020T083000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:6a230dee-69bb-4189-bac8-63045ef79d8e@6a23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20261103T093000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20261103T073000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:d4373fd8-8536-4b38-afe7-cf5e2cc871be@d437.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20261117T093000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20261117T073000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:09fd75d3-a813-43f2-b4c1-53693207b87d@09fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20260917T103000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20260917T083000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:c82e66d4-f7b3-4d6b-b68f-f0aa6ea2da73@c82e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20260911T103000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20260911T083000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:0b350179-d683-4a8a-bc56-62ed1ef890fc@0b35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
-DTEND:20260909T103000Z
-LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20260909T083000Z
-SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
-UID:bae7dbc8-1ee9-417c-aae1-c43a76197c37@bae7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20261202T133000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20261202T113000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:2cad441e-aa85-4d2d-af93-f0278b1031da@2cad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
-DTEND:20270428T103000Z
-LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
-DTSTART:20270428T063000Z
-SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
-UID:2579b944-8a18-4fde-a5fe-77a04b486490@2579.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20270108T173000Z
-LOCATION:No Location
-DTSTART:20270108T143000Z
-SUMMARY:Examen de Tecnologías de Fabricación en aulas Aula Informática A-1.02\, Aula Informática C1.06 Mac\, Aula Informática C1.08\, Aula Informática C1.09\, Aula Informática C1.10  - (Tipo Escrito-Práctico\, Sala de Ordenadores)
-UID:03db948b-9df1-4e22-9b54-a264b76564c5@03db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20260923T123000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20260923T103000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:0729550b-e8bb-46bb-8e1a-855b9db9dea0@0729.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
-DTEND:20261112T113000Z
-LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
-DTSTART:20261112T093000Z
-SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
-UID:7851caf2-9eea-4be5-87e6-629e726454e0@7851.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20270228T000000Z
-SUMMARY:Día de Andalucía - Fiesta Autonómica
-UID:a781d21a-ff92-4c11-9658-c8847ada329e@a781.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20270518T123500Z
-LOCATION:No Location
-DTSTART:20270518T073500Z
-SUMMARY:Examen de Informática Industrial y Comunicaciones en aulas  - (Tipo Escrito-Práctico\, Sala de Ordenadores)
-UID:469772af-3c13-4625-9284-a9f5310b6a83@4697.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20261020T083000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20261020T063000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:fecdb84b-8b7d-4d50-8620-03d3acf0f03c@fecd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270201T133000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270201T113000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:1724f800-5759-4c23-8a97-35c645ca5b92@1724.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270215T133000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270215T113000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:c97488b8-45e6-49f5-9e1d-83b8a9a0143a@c974.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20260921T103000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20260921T083000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:556f4f57-f005-4f7f-badc-cd636071b7be@556f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20270128T000000Z
-SUMMARY:Festividad de Santo Tomás de Aquino - Fiesta Comunidad Universitaria
-UID:dbcb23d6-3519-4959-93e8-c8ec4c4f406a@dbcb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20261104T133000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20261104T113000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:dac6beab-6ead-4a50-b65e-14948e773b2b@dac6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270426T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270426T083000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:44c6f35d-67a1-4ce5-8786-f7c207aa2eb6@44c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270409T103000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270409T083000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:0f7448e6-f486-47dc-8eba-7a54e7cbdc7c@0f74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20260916T000000Z
-SUMMARY:Acto de Apertura Curso 2026-2027-Grados
-UID:ef5af425-905c-4c16-9d4c-b49fb4e348fd@ef5a.org
+UID:28d1a6e0-3e6c-4cfd-8848-323836845eff@28d1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
@@ -1849,63 +62,95 @@ DTEND:20261027T093000Z
 LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
 DTSTART:20261027T073000Z
 SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:d0906c00-451b-4858-b301-a9f7042528f2@d090.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20261019T083000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20261019T063000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:7e965b9a-053b-406a-b7c5-597b6f9c8f13@7e96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20261028T133000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20261028T113000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:a84a8c18-297a-47a8-a4ff-a96c29ad9aef@a84a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20260907T083000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20260907T063000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:2f41cb83-9554-41c8-a462-6be15ff93858@2f41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270412T123000Z
-LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270412T103000Z
-SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:6d95a217-63ec-4b57-aa83-34837597e6b8@6d95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
-DTEND:20260930T123000Z
-LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
-DTSTART:20260930T103000Z
-SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
-UID:8572dfa5-981f-4b9f-b50c-71eec4b4a9cc@8572.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
-DTEND:20270318T133000Z
-LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
-DTSTART:20270318T113000Z
-SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:be670295-9cde-4095-9c3a-db7b6959ee6a@be67.org
+UID:049f325d-a924-49c4-88b4-f433bf0969ad@049f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20270521T113000Z
+DTEND:20261214T183000Z
 LOCATION:No Location
-DTSTART:20270521T073000Z
-SUMMARY:Examen de Ingeniería de Control en aulas  - (Tipo Escrito)
-UID:9ea51464-257e-4568-a394-3c472dc4357f@9ea5.org
+DTSTART:20261214T143000Z
+SUMMARY:Examen de Automatización Industrial e Instrumentación en aulas  - (Tipo Escrito)
+UID:ff1e0c46-744f-4337-ab01-bf46597228cb@ff1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261201T113000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261201T093000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:42574d7a-fee6-4b48-b45f-d36e2b9d0071@4257.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270225T133000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270225T113000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:93c54e8a-177a-47ef-b119-9307744f37ee@93c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270409T103000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270409T083000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:0c6db2d4-9360-447d-aa8d-10993f7015d3@0c6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261014T103000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261014T083000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:50495f14-c501-4de5-a33d-46fe88d2bef7@5049.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261106T113000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261106T093000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:2966ef8b-74f6-4cbd-ae67-0e4db78aab21@2966.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20261117T093000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20261117T073000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:63cd8963-cc0f-4286-8ccf-ec14b6d21d77@63cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20261201T093000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20261201T073000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:6b512a87-b3c4-45b4-af3e-386ef787ad46@6b51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270401T123000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270401T103000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:70dd2efc-25d2-4744-9ba5-3b58312ef0d2@70dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270504T123000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270504T103000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:0d065462-b2c6-451d-b0ce-1f5981869a07@0d06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270216T133000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270216T113000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:8d96074e-8c8b-4f3f-ae3a-13bb3bdfa9b9@8d96.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
@@ -1913,55 +158,103 @@ DTEND:20270208T133000Z
 LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
 DTSTART:20270208T113000Z
 SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:706208c6-df56-41a9-9295-5bcd0d8267b0@7062.org
+UID:03150a21-d069-4ad6-b785-50194d4e6b49@0315.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20270528T120000Z
+LOCATION:No Location
+DTSTART:20270528T100000Z
+SUMMARY:Examen de Sistemas Inteligentes en aulas  - (Tipo Escrito-Práctico\, Sala de Ordenadores)
+UID:9c1780de-917e-491a-a219-efb5830bb063@9c17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20260908T103000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20260908T083000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:966fc39f-ce41-4705-bdf3-595dd73c1fa7@966f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270309T113000Z
+DTEND:20270503T103000Z
 LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270309T093000Z
+DTSTART:20270503T083000Z
 SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:59aebbdd-5b3f-4bab-9ebd-92ec7f1ba2e3@59ae.org
+UID:8e35c8c3-0b15-42eb-a4e5-658a525e398d@8e35.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
-DTEND:20270427T103000Z
-LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
-DTSTART:20270427T083000Z
-SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
-UID:645ea727-db3b-4b29-aa44-d728a5ead18e@645e.org
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20270118T183500Z
+LOCATION:No Location
+DTSTART:20270118T143500Z
+SUMMARY:Examen de Automatización Industrial e Instrumentación en aulas  - (Tipo Escrito)
+UID:5eea4310-b0c6-4122-99f3-eaa14df65743@5eea.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20260929T083000Z
+DTEND:20261013T083000Z
 LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20260929T063000Z
+DTSTART:20261013T063000Z
 SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:f72771b4-050c-461d-9d73-b5776fd60cc0@f727.org
+UID:e248a403-fdca-4250-8a60-8450dd4dd613@e248.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20261130T093000Z
-LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20261130T073000Z
-SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:6bd57525-2032-4f55-981e-47fcae6a53cc@6bd5.org
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20260924T103000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20260924T083000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:f470d9e6-f250-4c75-a7ac-e00c986c5208@f470.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20261021T123000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20261021T103000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:4f3226f9-e861-4e8d-8a31-d272591d16e3@4f32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270413T123000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270413T103000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:1d005efd-34ad-4af9-866f-9a160d5a272f@1d00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
+DTEND:20270331T103000Z
+LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
+DTSTART:20270331T063000Z
+SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
+UID:6c731f55-aad3-465f-82ea-98c9d7205700@6c73.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
-DTEND:20270219T113000Z
+DTEND:20270419T123000Z
 LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
-DTSTART:20270219T093000Z
+DTSTART:20270419T103000Z
 SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
-UID:9ec7dbe3-9f1f-4864-8e78-743a1e20977d@9ec7.org
+UID:ab09f829-d5b9-4a4f-acfa-c4bcdf89b034@ab09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270319T113000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270319T093000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:24d8f067-390b-4dac-8598-d8f1d301b2a2@24d8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
-DTEND:20261006T083000Z
+DTEND:20261005T083000Z
 LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
-DTSTART:20261006T063000Z
+DTSTART:20261005T063000Z
 SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
-UID:c3ed95eb-7410-4eeb-8a8b-4740bc56f7f0@c3ed.org
+UID:e6a522ba-a3f6-41b5-aaec-ad845b480cdb@e6a5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
@@ -1969,6 +262,1713 @@ DTEND:20270407T123000Z
 LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
 DTSTART:20270407T103000Z
 SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
-UID:006075a2-cd07-43a7-9e43-370fe2014b02@0060.org
+UID:76b6af88-7747-45f4-8fff-900a43de37e6@76b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270420T123000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270420T103000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:aae596bc-98bb-4288-a761-ff70deda1819@aae5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270311T133000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270311T113000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:28217d4d-6ecb-4568-83ab-a5937df980c7@2821.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261020T103000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261020T083000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:0ed34cf0-4cbe-4b27-af32-4a6f4e154ade@0ed3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
+DTEND:20270407T103000Z
+LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
+DTSTART:20270407T063000Z
+SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
+UID:b7201959-edf1-4cd4-8466-12869a7d4f02@b720.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270225T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270225T093000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:be92a3c5-2145-4955-b8e0-2c61e90d5f7f@be92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270513T123000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270513T103000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:950d7bc5-1f0d-4b9b-81f4-c856f85b00f0@950d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20261102T000000Z
+SUMMARY:Festividad de Todos los Santos - Fiesta Nacional
+UID:96029ac4-21c1-457a-af87-366e459be1d4@9602.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261029T113000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261029T093000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:06d1b74c-2b26-4975-beb6-462a17890dda@06d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270511T123000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270511T103000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:f268a476-580d-4241-b5c9-546161557e7b@f268.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20261217T173000Z
+LOCATION:No Location
+DTSTART:20261217T143000Z
+SUMMARY:Examen de Electrónica Digital y Microcontroladores en aulas  - (Tipo Escrito)
+UID:243f2c9d-01fd-419d-870d-5e6ab118715e@243f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270504T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270504T083000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:cd1b7473-cbc6-433e-af0e-b9b87a9f762c@cd1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270202T133000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270202T113000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:fa8205d6-517e-4ab4-a7e6-a29a380e1200@fa82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270318T133000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270318T113000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:0ee5548a-9f7b-4769-b632-ce8c02cef76a@0ee5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20270322T000000Z
+SUMMARY:Vacaciones de Semana Santa
+UID:3161791d-e532-4509-a8b9-c64159e2de43@3161.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20270125T173000Z
+LOCATION:No Location
+DTSTART:20270125T143000Z
+SUMMARY:Examen de Tecnologías de Fabricación en aulas  - (Tipo Escrito-Práctico\, Sala de Ordenadores)
+UID:b1f875aa-30c3-41c2-b8d6-2f51a85ee303@b1f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
+DTEND:20270224T113000Z
+LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
+DTSTART:20270224T073000Z
+SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
+UID:2e82d35c-e516-4698-811c-5d9cc6c4f46b@2e82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270329T123000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270329T103000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:b157e5db-0b36-4838-a638-10acad6bffca@b157.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261126T113000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261126T093000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:f7d576c9-b544-4c8d-94d8-edb1bfce9522@f7d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270216T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270216T093000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:79317e7f-ae50-43cd-8d8b-40ec3bd18fc2@7931.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270208T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270208T093000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:13e9fdf4-c258-4298-a953-2aad279e43b1@13e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20261208T000000Z
+SUMMARY:Festividad de la Inmaculada Concepción - Fiesta Autonómica
+UID:9e2af973-c665-4101-adc3-5fdf5d61c99e@9e2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20260916T000000Z
+SUMMARY:Acto de Apertura Curso 2026-2027-Grados
+UID:9c6fd864-e1fb-4dfd-a053-fab2d93cc852@9c6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20270518T123500Z
+LOCATION:No Location
+DTSTART:20270518T073500Z
+SUMMARY:Examen de Informática Industrial y Comunicaciones en aulas  - (Tipo Escrito-Práctico\, Sala de Ordenadores)
+UID:0335d5fc-9d05-4fb9-a9e2-47f2e4d40f9b@0335.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270217T133000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270217T113000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:4281ce54-0c7d-412e-80c0-3fa53644d16c@4281.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20260915T103000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20260915T083000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:0d9acbf1-e655-4d9b-8b1e-624728b022a2@0d9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20270525T163000Z
+LOCATION:No Location
+DTSTART:20270525T133000Z
+SUMMARY:Examen de Control de Máquinas y Accionamientos Eléctricos en aulas  - (Tipo Escrito)
+UID:2c6c3bad-27a7-4e5d-96f7-aa3b0bd5e26e@2c6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20261020T083000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20261020T063000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:c0d0cb19-570d-4465-90ac-fc64fe013494@c0d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20261109T113000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20261109T093000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:010bf12c-591c-406e-8a2a-9ab32fdd7381@010b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261007T103000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261007T083000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:f96e02bb-7993-49c8-8dba-f670e4d1ad9c@f96e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270505T123000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270505T103000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:789bd231-3cf0-4839-8876-5779329d47dd@789b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261103T113000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261103T093000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:b22c4317-4f6d-41fb-b88e-0f14cf0bd988@b22c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20270122T173000Z
+LOCATION:No Location
+DTSTART:20270122T143000Z
+SUMMARY:Examen de Electrónica Digital y Microcontroladores en aulas  - (Tipo Escrito)
+UID:0ee8a49c-afce-4d9d-8e59-96b1b34056cc@0ee8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261013T103000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261013T083000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:ef422bd5-f62a-4ebd-b8e4-a3fc22791cf0@ef42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270412T123000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270412T103000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:562e21a1-58eb-45ec-a3d1-7bac18b8a662@562e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270312T113000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270312T093000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:39a2b628-3c04-4adf-aa72-d8c341a38cd4@39a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270210T133000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270210T113000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:58a10abc-4eb7-4372-b038-f31fb6fc691d@58a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270317T133000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270317T113000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:2f5b8e1f-5184-4069-89a2-2acb0d10d705@2f5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270413T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270413T083000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:f851388c-17ed-42bd-8d1d-beed27e9bf1a@f851.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20260930T123000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20260930T103000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:67246a5e-498c-486e-9337-1f951819074d@6724.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20261019T103000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20261019T083000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:f1740815-1fdc-4801-aa15-15680858f73e@f174.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270204T133000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270204T113000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:f6dd97eb-9768-43e0-bc49-878e1da269f2@f6dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261202T113000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261202T093000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:593230b7-97c8-4444-b326-10603e783a62@5932.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270304T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270304T093000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:60b2f22a-c51e-4dab-9ebb-bcd455a34567@60b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20270625T120000Z
+LOCATION:No Location
+DTSTART:20270625T100000Z
+SUMMARY:Examen de Sistemas Inteligentes en aulas  - (Tipo Escrito-Práctico\, Sala de Ordenadores)
+UID:f47fef55-ae4e-4266-857d-c0003e9fb589@f47f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270205T113000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270205T093000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:90f31f0b-2926-438a-961c-c0fb70c5c95c@90f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270305T113000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270305T093000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:172375b6-970e-4a5c-b615-dc5a5676d92c@1723.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20260929T083000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20260929T063000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:b6bc3023-96d1-4be0-8303-4eee183e0bf3@b6bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261104T113000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261104T093000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:10640399-a99b-4f0a-95dd-47ffa8cc9687@1064.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20261130T093000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20261130T073000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:cf967428-070e-4a93-8a5b-b4a5bde35d83@cf96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270311T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270311T093000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:f04c5a29-fa0e-48a5-9860-c506e9e18560@f04c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20270128T000000Z
+SUMMARY:Festividad de Santo Tomás de Aquino - Fiesta Comunidad Universitaria
+UID:296aa73f-ed10-4e89-9b57-5428f42da8d4@296a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20260929T103000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20260929T083000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:fbb0d441-539e-49d4-aa6b-2edd59cc9c84@fbb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20260921T083000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20260921T063000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:99c3f056-f24d-451e-93fc-c6d9862af598@99c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20261116T113000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20261116T093000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:df030353-157a-4c8e-834a-4a850ba11a6f@df03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261027T113000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261027T093000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:92f74d00-f88a-4c0a-91fb-0882b3d6b3f0@92f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270511T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270511T083000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:37bd6c2c-3607-459d-b60b-3982ccd0869d@37bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270330T123000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270330T103000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:898959f5-f22e-4495-9a2c-52ef6dd0bf31@8989.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261113T113000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261113T093000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:dbae838c-e4e5-4f40-bb1b-95d456cf8200@dbae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270402T103000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270402T083000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:9c450ae0-308f-4f97-9b13-b8fc2b29fa8d@9c45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20260922T083000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20260922T063000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:6c8c1578-59d6-4634-a352-e34ebe631cf2@6c8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261120T113000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261120T093000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:174e06d1-8acd-4767-af6b-58820c1c35d9@174e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261009T103000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261009T083000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:01123c83-4c3b-4e68-9b5d-0354af90a65b@0112.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270421T123000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270421T103000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:91744f11-7d98-47c9-bfb6-fec671519603@9174.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20270501T000000Z
+SUMMARY:Celebración Día del Trabajo - Fiesta Nacional
+UID:9f7ea2d0-78ee-45b0-a668-6b404ce29156@9f7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270412T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270412T083000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:6b7ca09b-1e9e-4084-9074-40b1cffa3a24@6b7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261006T103000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261006T083000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:b9c6d94f-9f10-4479-af15-a85f9795a39a@b9c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20261223T000000Z
+SUMMARY:Periodo vacacional de Navidad
+UID:3174415f-2835-4005-9008-2615f5544dbd@3174.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261008T103000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261008T083000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:770cfb2f-65c3-49d4-83c5-1535707a0df5@770c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20261206T000000Z
+SUMMARY:Día de la Constitución - Fiesta Nacional
+UID:11f2ffb7-2e34-4aa0-91d0-ac3aea2ddcbc@11f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270308T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270308T093000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:e639b5fc-e5e7-4697-876f-227ae389fd21@e639.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20261123T113000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20261123T093000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:cae20e4f-a305-4a22-a0a2-157d683f90bf@cae2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261021T103000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261021T083000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:504fece2-be42-49e2-b819-0818eeb5e772@504f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270226T113000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270226T093000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:f76b1b1c-d8d5-4264-b79d-e905208b4b5e@f76b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20260928T083000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20260928T063000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:15de4a9b-c734-4fa9-b2e0-491b61490a83@15de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20261026T113000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20261026T093000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:3cc6222c-a4d2-40f8-8645-21dcc2f97679@3cc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261022T103000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261022T083000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:bbea9ddb-c45a-4918-ad7e-ff1926be486f@bbea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270209T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270209T093000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:3612bf14-fd0c-4632-aa58-c22a9bae1463@3612.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270318T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270318T093000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:59acd7a4-cdef-436b-8ff5-15e1e6937a0a@59ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270426T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270426T083000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:af4c84f9-f2c9-4cac-83cf-ab970f7de8c9@af4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20260915T083000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20260915T063000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:caed1ece-562a-42eb-acb8-c772e79240d6@caed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270222T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270222T093000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:1013c5a1-438e-4da0-b83b-6234fad2045c@1013.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270316T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270316T093000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:8327191e-7bc2-467f-828c-242f7e3affd2@8327.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270405T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270405T083000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:35fd3a3c-27a7-470c-bb67-9ad8fc0ceaa8@35fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
+DTEND:20270203T113000Z
+LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
+DTSTART:20270203T073000Z
+SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
+UID:2bc07d1f-1f65-4a50-a471-336f5a14624d@2bc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270408T123000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270408T103000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:11d6598c-f78e-40a9-9b77-867087bfa998@11d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270513T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270513T083000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:ef72442a-2157-4e27-ace1-d35621e89d1b@ef72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20270527T000000Z
+SUMMARY:Corpus Christi - Fiesta Local
+UID:c205d8a1-343f-43a3-af4b-5492c5f37b3f@c205.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20261019T083000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20261019T063000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:7e258fd8-7e20-43b8-8c96-23500f4dd1a1@7e25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261001T103000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261001T083000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:76040a5e-0d92-4796-a400-3c7a45c85e32@7604.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270426T123000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270426T103000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:be1496ff-9c53-4003-8ff5-e91acd41fb6f@be14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270331T123000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270331T103000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:97396cb9-1469-40ce-8c50-7296050e65aa@9739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270405T123000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270405T103000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:f523364a-3946-4829-a799-b5f1a06c9efa@f523.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20260909T103000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20260909T083000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:5d87d8dd-3ea1-4c95-bbd3-de0526cdd007@5d87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20260923T123000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20260923T103000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:990f9018-cf7f-4e12-b318-0bf1f8cb123b@990f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20260917T103000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20260917T083000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:02b3e7a0-fc34-4076-bd65-a26d04aaabe1@02b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270428T123000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270428T103000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:3942b950-3578-4b01-8687-3af3cd216a8b@3942.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20270108T173000Z
+LOCATION:No Location
+DTSTART:20270108T143000Z
+SUMMARY:Examen de Tecnologías de Fabricación en aulas Aula Informática A-1.02\, Aula Informática C1.06 Mac\, Aula Informática C1.08\, Aula Informática C1.09\, Aula Informática C1.10  - (Tipo Escrito-Práctico\, Sala de Ordenadores)
+UID:d5076a70-d41e-4c58-962e-8d9f9256c347@d507.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20270414T000000Z
+SUMMARY:Feria de Abril - Fiesta Local
+UID:2078d1d1-25ba-4e1d-9ec7-27d76649d632@2078.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261117T113000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261117T093000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:87719941-a22e-44ec-95f7-cf572bde8cff@8771.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261118T113000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261118T093000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:82989785-ed0c-4f83-807b-343116b882df@8298.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20261014T123000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20261014T103000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:b6e8c14b-cd7f-4bed-8161-f79103110dcc@b6e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20261111T133000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20261111T113000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:83e5aeeb-6f5e-4b68-b4c2-ee584d647e5f@83e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270222T133000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270222T113000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:01d5cb28-1595-43f5-8adc-7ee4518580c0@01d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270203T133000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270203T113000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:eef85e98-376b-43b4-bcc4-a8bbc1768006@eef8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270514T103000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270514T083000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:19716f47-2366-45ed-bc3e-409a95bcd66e@1971.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270510T123000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270510T103000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:210b12d1-0d37-4794-8385-fc69ad5c1b62@210b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20261202T133000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20261202T113000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:7d39e47d-f3ac-470c-b2c0-81ae1fd23495@7d39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
+DTEND:20270317T113000Z
+LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
+DTSTART:20270317T073000Z
+SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
+UID:2e0a151b-3e97-48fc-82ef-eefe6190d888@2e0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
+DTEND:20270310T113000Z
+LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
+DTSTART:20270310T073000Z
+SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
+UID:02050f0b-f71d-49e9-99d3-5c06aaec00d9@0205.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20261116T093000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20261116T073000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:71c63ffe-cf1e-4eda-b201-edfa3b4bf4b9@71c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261203T113000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261203T093000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:2865cf5e-58f5-4aa3-8b06-55ecc3cb7d94@2865.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: Práctica \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: True\nExam: False
+DTEND:20261007T083000Z
+LOCATION:Aula Informática C1.08 (Edificio Central - Campus Sevilla)
+DTSTART:20261007T063000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula Informática C1.08 (Edificio Central - Campus Sevilla) 
+UID:d9235c3b-744c-49fd-a251-59e7faf3683c@d923.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270330T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270330T083000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:b2ba6b16-f651-423b-a88c-ebdbed0d08af@b2ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
+DTEND:20270512T103000Z
+LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
+DTSTART:20270512T063000Z
+SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
+UID:9ad2547b-a495-4e43-b61a-491b67535a74@9ad2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270201T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270201T093000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:47e845f7-c203-48e2-8cf6-3b414b3ca658@47e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20260903T000000Z
+SUMMARY:Jornadas de Bienvenida- Grados
+UID:94ab5970-d258-44d0-ad75-8221fe6c84fc@94ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261030T113000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261030T093000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:412123c6-c66d-4839-b0ba-f1b94bc1af49@4121.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270503T123000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270503T103000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:10f10586-7072-40e5-ad28-89faa175fe73@10f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20260923T103000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20260923T083000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:f2f4b606-51f8-4226-955e-ce4907cccd90@f2f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270429T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270429T083000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:ad3dcb20-c03d-4d88-9f89-d8bf265be831@ad3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270406T123000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270406T103000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:0ba148be-7dbc-411f-b3de-fd0bc935a976@0ba1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261127T113000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261127T093000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:b3a3f69b-d01b-41d8-ad4d-238b8722964c@b3a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20261012T000000Z
+SUMMARY:Festividad de Nuestra Señora del Pilar - Fiesta Nacional
+UID:4beb74f5-f6b1-474d-8a6d-a5853951fb18@4beb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20261110T093000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20261110T073000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:24aff0bc-a4cf-43a1-a200-b07de98e6d7c@24af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261112T113000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261112T093000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:11bf5c16-e27d-444c-ac87-da59040093f9@11bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20261130T113000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20261130T093000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:d2bbd600-a456-4a79-b276-c243889278b6@d2bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261028T113000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261028T093000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:d6c1a52b-c1aa-4f6a-b409-226825c058f5@d6c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20260910T103000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20260910T083000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:37b865be-038b-43ce-8e40-9f3060cc457e@37b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270310T133000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270310T113000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:92962c31-e521-4868-a23d-2a6d0ef6ee6d@9296.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270427T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270427T083000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:48e8bf26-3761-43d5-8d23-2064ff5d4320@48e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270212T113000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270212T093000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:c7bab868-0184-423e-9381-057aa65f64a7@c7ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270430T103000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270430T083000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:38610327-c96b-402a-b149-731338c3e3b6@3861.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20260928T103000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20260928T083000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:dbc9bb1f-a4c7-4e71-9dfe-f50afbf8bff2@dbc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261105T113000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261105T093000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:43176701-feea-4658-ab17-d8d7b6a27e20@4317.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261111T113000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261111T093000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:86cf2904-6aaa-4052-8c3e-bc11f1a0bbf4@86cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270218T133000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270218T113000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:2c6cc5b4-420b-47af-b28e-f1e57cdd7bdc@2c6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270211T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270211T093000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:1d1f712e-64e5-4261-b85e-4d5c4a336fd3@1d1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20260921T103000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20260921T083000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:384608ef-be3a-422d-b283-b0a2288a086f@3846.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20261006T083000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20261006T063000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:e91e2dd7-08e3-4be7-b0e9-104ba021be53@e91e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20261124T093000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20261124T073000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:54617359-79d3-4f97-b33c-18cd4884a013@5461.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20270228T000000Z
+SUMMARY:Día de Andalucía - Fiesta Autonómica
+UID:88c69206-3768-4982-b6c3-b149d200ceb2@88c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20261007T123000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20261007T103000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:190ea102-ca9b-47a4-9139-9eb4a9546a8b@190e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20270112T123000Z
+LOCATION:No Location
+DTSTART:20270112T083000Z
+SUMMARY:Examen de Robotics en aulas Aula Informática C1.10  - (Tipo Escrito-Práctico\, Sala de Ordenadores)
+UID:ba9ecf1e-90b5-4789-932a-d9b3e0b2b3de@ba9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270215T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270215T093000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:d71f1087-cc4d-4b52-b3c6-cddbdbcec2e1@d71f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270215T133000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270215T113000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:be8aa582-ef2e-457a-ad1f-6d38b9253c42@be8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20261104T133000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20261104T113000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:9928dc32-2020-419f-864c-9e6e5b8d0d61@9928.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261119T113000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261119T093000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:cb029c79-aef4-4f6f-b1d5-41a864ae33f4@cb02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270209T133000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270209T113000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:c2bded51-2e9a-498d-b029-ab2de1199e66@c2bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270211T133000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270211T113000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:08eeb3b9-9a62-4db8-9aed-2e68b1af2907@08ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270201T133000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270201T113000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:d1dec9df-2a28-4f6f-973e-1302d97c1673@d1de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20270618T113000Z
+LOCATION:No Location
+DTSTART:20270618T073000Z
+SUMMARY:Examen de Ingeniería de Control en aulas  - (Tipo Escrito)
+UID:e0cb9022-5316-43f7-a3d4-997ad6039418@e0cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20260930T103000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20260930T083000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:79c324fa-5781-441d-b2ba-b39c1b94cd8a@79c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270219T113000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270219T093000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:b16a740f-6087-45dd-970d-4a6a415f3a40@b16a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20270622T163000Z
+LOCATION:No Location
+DTSTART:20270622T133000Z
+SUMMARY:Examen de Control de Máquinas y Accionamientos Eléctricos en aulas  - (Tipo Escrito)
+UID:6340a7b2-84ed-4ea5-b28c-b2a7b0cfaf6e@6340.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270309T133000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270309T113000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:6df58320-2588-4058-b4df-911ab2234ae1@6df5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20260922T103000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20260922T083000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:d01369be-4369-4695-b06a-e1b0fb7bbf5e@d013.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20260908T083000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20260908T063000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:c78cc73b-a832-420c-9bfa-38ee07bef94f@c78c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20260914T103000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20260914T083000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:bb0b812a-e26f-44e6-b71c-82af2275c180@bb0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
+DTEND:20270428T103000Z
+LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
+DTSTART:20270428T063000Z
+SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
+UID:fddaf5d3-1403-49fa-8ff4-9fd5917b6712@fdda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20261109T093000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20261109T073000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:6c17879d-1ba4-439e-8318-ddcca95359d0@6c17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20270623T123000Z
+LOCATION:No Location
+DTSTART:20270623T073000Z
+SUMMARY:Examen de Electrónica de Potencia en aulas  - (Tipo Escrito)
+UID:2aa72d3f-816a-444b-b48d-185cfefc241a@2aa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270512T123000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270512T103000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:93889b8f-fe18-4a47-8737-fd71edcc5fb6@9388.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270308T133000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270308T113000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:1a67fe24-10e4-4dcc-b94c-cccbcc1f6f28@1a67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270422T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270422T083000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:0ab8cf37-532e-4716-8c33-08f30e485ea9@0ab8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270506T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270506T083000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:611ec376-61d3-4e89-8995-f6b8dae5c2ca@611e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261016T103000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261016T083000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:d72ad9c0-550f-4f23-9a8a-a3d2d619b20b@d72a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20261103T093000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20261103T073000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:b2d3e7a1-55dd-47cd-9ea2-afb3b250a0f2@b2d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270419T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270419T083000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:d07a8ea2-bc14-4805-8056-c04a3481c3bb@d07a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270422T123000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270422T103000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:8111b5f8-806d-404a-b3a9-41dfc8d76b21@8111.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20260911T103000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20260911T083000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:f682a2e9-d48e-4a57-a6b4-c7e1077e6a2a@f682.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20260925T103000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20260925T083000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:b0f7ee93-60ae-4b0c-a179-185af97e3df5@b0f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270223T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270223T093000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:ece40b05-afde-4706-a363-032bd14681b9@ece4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261002T103000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261002T083000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:cf0d2a27-49b0-4b01-9e10-8dbd7108c17f@cf0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270401T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270401T083000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:9177e354-305a-478d-9bba-60125fe536c6@9177.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270423T103000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270423T083000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:38fd2833-c18c-4204-9907-b06ff9d4c115@38fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
+DTEND:20270505T103000Z
+LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
+DTSTART:20270505T063000Z
+SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
+UID:50c52e76-68e0-427b-8da7-dded46b0b1d0@50c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20270521T113000Z
+LOCATION:No Location
+DTSTART:20270521T073000Z
+SUMMARY:Examen de Ingeniería de Control en aulas  - (Tipo Escrito)
+UID:f7a17feb-5b90-454d-80a7-29dd0cb0d464@f7a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261110T113000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261110T093000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:5135cc32-1314-4c5d-9afe-cc5c8e2a6d3a@5135.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20261123T093000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20261123T073000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:4eb2abc2-e51a-476a-a3a5-80be8183a1bf@4eb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20270614T123000Z
+LOCATION:No Location
+DTSTART:20270614T073000Z
+SUMMARY:Examen de Informática Industrial y Comunicaciones en aulas  - (Tipo Escrito-Práctico\, Sala de Ordenadores)
+UID:99348c7c-c7e0-4779-8e10-67df26153626@9934.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20261125T133000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20261125T113000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:624e5627-49a8-4e54-90b3-93fd66e83d75@624e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270329T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270329T083000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:7bb3aa96-d829-4b30-b2ab-7617d149ebdd@7bb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
+DTEND:20270217T113000Z
+LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
+DTSTART:20270217T073000Z
+SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
+UID:2b14bbee-0801-4eaf-a1df-355bf46c303e@2b14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20260918T103000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20260918T083000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:dd425799-46b7-43fc-bc7b-ccb5236c20f1@dd42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270218T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270218T093000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:c4e13e4a-6685-40d4-994b-b7fb17ebe9bc@c4e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Soria Lorente\, Anier\nObservations: False\nExam: False
+DTEND:20270507T103000Z
+LOCATION:Aula A1.12 (Edificio Central - Campus Sevilla)
+DTSTART:20270507T083000Z
+SUMMARY:Sistemas Inteligentes - Grupo  - Grupo A / Aula: Aula A1.12 (Edificio Central - Campus Sevilla) 
+UID:a263451a-86ec-4d9a-9af8-b4dd8d2ed760@a263.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270427T123000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270427T103000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:ae4b1d5a-27a7-4238-ad51-e0dd68e9909b@ae4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270406T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270406T083000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:21e4ccfa-5071-4917-be73-540d272f9327@21e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261124T113000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261124T093000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:26021a6b-09ab-42b4-a9c4-38c5fe106d68@2602.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270204T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270204T093000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:767f8dd3-5d5f-498d-8fa9-272706046869@767f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20260907T103000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20260907T083000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:cc5379b2-3825-4114-9023-b8312532acb8@cc53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270224T133000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270224T113000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:988b500e-3dfa-41d5-83e9-a764111342f1@988b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20261028T133000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20261028T113000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:3f0549c1-2e3e-43f2-a35c-a9efbacae28b@3f05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270309T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270309T093000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:6195b9c1-4733-48b5-ab2b-9c07dae83693@6195.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270303T133000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270303T113000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:d37f1b49-bdff-47ac-9c4f-5339d4fae5db@d37f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270506T123000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270506T103000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:f0d143ca-90f0-4d68-b215-46fbf670a3b3@f0d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20270130T123000Z
+LOCATION:No Location
+DTSTART:20270130T083000Z
+SUMMARY:Examen de Robotics en aulas  - (Tipo Escrito-Práctico\, Sala de Ordenadores)
+UID:f6881a5b-4613-4b41-ab80-410405dc12a2@f688.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270202T113000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270202T093000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:f1a38c99-68ea-4713-8ae8-415b46ed357e@f1a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270316T133000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270316T113000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:8038151e-f4b0-4c9f-ab28-dccbabedddcf@8038.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Sánchez de la Nieta López\, Agustín Alejandro\nObservations: False\nExam: False
+DTEND:20270210T113000Z
+LOCATION:Aula E2.05 (Edificio E - Campus Sevilla)
+DTSTART:20270210T073000Z
+SUMMARY:Electrónica de Potencia - Grupo  - Grupo A / Aula: Aula E2.05 (Edificio E - Campus Sevilla) 
+UID:49b63b96-7b5d-435b-93ab-ebce56672b05@49b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20270602T123000Z
+LOCATION:No Location
+DTSTART:20270602T073000Z
+SUMMARY:Examen de Electrónica de Potencia en aulas  - (Tipo Escrito)
+UID:793427e9-b746-4414-a112-80b3996f6a31@7934.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20260909T123000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20260909T103000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:c7e825af-a367-41e2-8624-b0607d4eba9f@c7e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270408T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270408T083000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:4bca6ebc-65a1-4de4-8456-eff2f69b1a8b@4bca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261015T103000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261015T083000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:9ef1a1c8-4eab-4a85-8b22-2c6d008300fb@9ef1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Pereira Martín\, Mario\nObservations: False\nExam: False
+DTEND:20261204T113000Z
+LOCATION:Aula A1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261204T093000Z
+SUMMARY:Automatización Industrial e Instrumentación - Grupo  - Grupo A / Aula: Aula A1.09 (Edificio Central - Campus Sevilla) 
+UID:7dde0af8-6e5c-4f6d-a1fd-4719fc6ef423@7dde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20260907T083000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20260907T063000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:a2afaa53-1925-4c6c-9c7b-62f0f9e42e85@a2af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20260914T083000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20260914T063000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:2bdda06c-2b13-4e9f-8cf6-765168a66cb4@2bdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Endrino Armenteros\, José Luis\; Ortiz Vásquez\, Luisa Fernanda\nObservations: False\nExam: False
+DTEND:20261005T103000Z
+LOCATION:Aula C2.06 (Edificio Central - Campus Sevilla)
+DTSTART:20261005T083000Z
+SUMMARY:Tecnologías de Fabricación - Grupo  - Grupo A / Aula: Aula C2.06 (Edificio Central - Campus Sevilla) 
+UID:bb104bb9-6605-47e2-a07c-8bb3bfb95735@bb10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270429T123000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270429T103000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:6c89cef9-b53f-4e3b-b0f9-d7e03f7b67c1@6c89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Borja Conde\, José Antonio\; Millán Gata\, Pablo\nObservations: False\nExam: False
+DTEND:20270510T103000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270510T083000Z
+SUMMARY:Ingeniería de Control - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:e544e438-0430-47a6-bca4-70718122b75c@e544.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Muros Ponce\, Francisco Javier\; Peralta Samaniego\, Federico Daniel\nObservations: False\nExam: False
+DTEND:20261125T113000Z
+LOCATION:Aula Informática C1.09 (Edificio Central - Campus Sevilla)
+DTSTART:20261125T093000Z
+SUMMARY:Robotics - Grupo  - Grupo A / Aula: Aula Informática C1.09 (Edificio Central - Campus Sevilla) 
+UID:ddd92604-38d9-417c-8f8f-e9a46006f83d@ddd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Cañete Yaque\, Raquel\nObservations: False\nExam: False
+DTEND:20261026T093000Z
+LOCATION:A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla)
+DTSTART:20261026T073000Z
+SUMMARY:Electrónica Digital y Microcontroladores - Grupo  - Grupo A / Aula: A-1.16 Laboratorio de Ingeniería Electrónica  (Edificio Central - Campus Sevilla) 
+UID:9b116b44-580d-4461-bffd-27f7231231bf@9b11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270302T133000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270302T113000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:148cf4fe-f296-42c1-b7bb-47eb1cb9cd84@148c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bejarano Pellicer\, Guillermo\nObservations: False\nExam: False
+DTEND:20270304T133000Z
+LOCATION:Aula Informática C1.10 (Edificio Central - Campus Sevilla)
+DTSTART:20270304T113000Z
+SUMMARY:Informática Industrial y Comunicaciones - Grupo  - Grupo A / Aula: Aula Informática C1.10 (Edificio Central - Campus Sevilla) 
+UID:f7efb66f-aaf4-4dd3-a1c9-4b582c48e19c@f7ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Salvador Ortíz\, José Ramon\nObservations: False\nExam: False
+DTEND:20270223T133000Z
+LOCATION:Aula A1.01 (Edificio Central - Campus Sevilla)
+DTSTART:20270223T113000Z
+SUMMARY:Control de Máquinas y Accionamientos Eléctricos - Grupo  - Grupo A / Aula: Aula A1.01 (Edificio Central - Campus Sevilla) 
+UID:88547a72-adef-4847-a458-414d0b2a9604@8854.org
 END:VEVENT
 END:VCALENDAR
